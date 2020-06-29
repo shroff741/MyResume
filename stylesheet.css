@@ -1,0 +1,35 @@
+.my_photo {
+	height: 200px;
+	width: 200px;
+	border-width: 3px;
+	border-style: solid;
+	border-radius: 100%;
+	margin-top: 11px;
+	margin-bottom: 12px;
+	float: right;
+	display: block;
+}
+#intro_div {
+	width: 50%;
+	float: left;
+}
+
+h2 {
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+}
+.skill {
+	border-radius: 15%;
+	border-width: 1;
+	border-style: solid;
+	border-color: dimgray;
+	padding: 3px;
+	margin-right: 5px;
+}
+.section_project {
+	border-bottom: grey dashed 1.5px;
+}
+.section {
+	border-bottom: grey dashed 1.5px;
+	padding-bottom: 15px;
+}
